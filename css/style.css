@@ -1,0 +1,6 @@
+.hidden {
+    /* 잡아둔 공간은 그대로 두고 요소만 생략 */
+    /* visibility: hidden; */
+    /* 잡아둔 공간도 함께 생략 */
+    display: none;
+}
